@@ -1,7 +1,7 @@
 # Custom ignore
 weights/*.task
 dataset/*
-res/*
+hand_landmarker/res/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
